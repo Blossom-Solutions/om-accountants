@@ -1,0 +1,3 @@
+[submodule "server-om"]
+	path = server-om
+	url = https://github.com/Blossom-Solutions/server-om.git
