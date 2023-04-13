@@ -7,6 +7,8 @@ The backend is built following Domain-Driven Design (DDD) concepts and hexagonal
 ## Getting Started
 
 To run the project locally, you have two options: using Docker or running it manually.
+It is important you also include the server-om submodule while cloning, this can be achieved by running
+`git clone --recurse-submodules https://github.com/Blossom-Solutions/om-accountants.git`
 
 ### Option 1: Using Docker
 
